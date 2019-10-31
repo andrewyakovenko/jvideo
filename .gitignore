@@ -10,6 +10,16 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# Gradle stuff
+.gradle/
+build/
+
+# pom.xml is generated and should be ignored
+pom.xml
+
+# IDE
+.idea/
+
 # Package Files #
 *.jar
 *.war
